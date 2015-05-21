@@ -4,7 +4,7 @@ package org.chatapp.useroperation;
 import javax.servlet.AsyncContext;
 
 public class Client {
-   
+   //test
 	private String userName;
 	private String channel;
 	private final AsyncContext aCtx;
